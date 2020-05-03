@@ -1,5 +1,5 @@
 #intro { 
-  background: url("../img/panorama-3094696_1920.jpg") no-repeat center center;
+  background: url("./assets/img/panorama-3094696_1920.jpg") no-repeat center center;
   background-size: cover;
 }
 
@@ -39,7 +39,7 @@
 }
 
 #pricing .card-image {
-  background: url("../img/architecture.jpg") no-repeat center center;
+  background: url("./assets/img/architecture.jpg") no-repeat center center;
 }
 
 #pricing ul li {
